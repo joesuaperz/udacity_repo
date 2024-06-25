@@ -6,3 +6,7 @@ git add
 git status
 git commit 
 git push 
+
+### Adding some more commands for the second exercise version control workflow 
+git checkout -b 'new branch'
+
